@@ -27,3 +27,7 @@
     Now that your backend is running (node server.js in the backend folder) and connected to PostgreSQL, 
     you can use Postman to test the API endpoints directly.
     Remember: Your backend is running on http://localhost:3001
+
+git add index.html 
+git commit -m "new file"
+git push origin main  
